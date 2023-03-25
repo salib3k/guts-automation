@@ -2,7 +2,7 @@
 
 ### Valid Search
 
-'Book of' was used as it's a common 
+'Book of' was used as a search since it's a common theme used in slot games.
 
 ### Invalid Search
 
