@@ -26,4 +26,4 @@ When complete run:
 npx cypress open
 ```
 This will open the GUI.
-Here you can select E2E Testing, where you should find maltapark.cy.js
+Here you can select E2E Testing, where you should find guts-auto.cy.js
